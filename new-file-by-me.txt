@@ -1,0 +1,1 @@
+Strugling to get git fetch working on other projects
